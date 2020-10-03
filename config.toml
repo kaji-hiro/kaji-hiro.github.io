@@ -1,0 +1,88 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "kaji-hiro"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 3
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 4
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "kaji-hiro's portfolio"
+author = "kaji-hiro"
+# Google Analitycs
+googleAnalitycsID = "UA-154752021-2"
+# contact form action
+contactFormAction = "https://formspree.io/f/mzbkzljl" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.png"
+heading = "My Repositories are"
+description = ""
+# button
+btn     = false
+btnText = "Download More"
+btnURL  = "https://themefisher.com/"
+
+# flip text
+[[params.banner.flipText]]
+title   = "unfowld_web"
+[[params.banner.flipText]]
+title   = "AtCoder_beginner_contest"
+[[params.banner.flipText]]
+title   = "Bouyomi_chat"
+[[params.banner.flipText]]
+title   = "and more..."
+
+# Homepage About Section
+[params.about]
+enable  = false
+title   = "ABOUT ME"
+content = "Rails engineer."
+image   = "images/about/about.jpg"
+
+# Call to Action
+[params.cta]
+enable  = false
+title   = "SO WHAT YOU THINK ?"
+content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact with me"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = true
+title   = "Repositories"
+subtitle= ""
+
+# social icon
+# [[params.socialIcon]]
+# icon = "ion-social-facebook"
+# url = "#"
+#
+# [[params.socialIcon]]
+# icon = "ion-social-instagram"
+# url = "#"
+#
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"

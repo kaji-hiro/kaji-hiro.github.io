@@ -1,0 +1,26 @@
+enable  : true
+title   : 何をしているか
+description: >
+  大学入学後、興味からコードを書き始める
+  <br>
+  <br>
+  C , python等を学んだ後、Ruby 及び Ruby on Rails の学習を始めRailsを使ったインターンをしている
+  <br>
+  <br>
+  株式会社READY TO FASHION 様へのインターンで様々なことを学んだ
+  <br>
+  <br>
+  WEBだけでなく幅広く興味があり、趣味でPCを自作したりアプリケーションを作成する
+image   : images/about/about-me.jpg
+# aboutItem:
+#   - title : Why Choose Us
+#     description: >
+#       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+#   - title : What You Get
+#     description: >
+#       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+#
+#   - title : Meet The Energy
+#     description: >
+#       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
