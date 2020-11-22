@@ -28,7 +28,7 @@ dateFormat = "6 January 2006"
 description = "kaji-hiro's portfolio"
 author = "kaji-hiro"
 # Google Analitycs
-googleAnalitycsID = "UA-154752021-2"
+googleAnalitycsID = "253831889"
 # contact form action
 contactFormAction = "https://formspree.io/f/mzbkzljl" # contact form works with https://formspree.io
 
